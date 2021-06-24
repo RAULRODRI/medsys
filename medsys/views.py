@@ -9,3 +9,5 @@ def index(request):
 
 def new_request(request):
     return render(request, 'core/new_request.html')
+
+# comentario de prueba
